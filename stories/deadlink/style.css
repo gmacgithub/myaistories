@@ -162,6 +162,12 @@ p {
     
 }
 
+.bottom-buttons3 {
+    display: flex;
+    width: auto;
+    justify-content: flex-start;
+}
+
 
 
 @media (max-width:768px) {
@@ -228,6 +234,7 @@ p {
         width: auto;
         
     }
+
 
 
 

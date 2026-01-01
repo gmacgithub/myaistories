@@ -37,7 +37,7 @@
     z-index: 1;
     background-color: rgb(31, 12, 15, 0.5);
     overflow-y: auto;
-    height: 50vh;
+    height: fit-content;
     
 }
 
@@ -246,4 +246,5 @@ p {
 
 
 }
+
 
